@@ -1,4 +1,3 @@
-import logo from 'D:/testthu/src/anh/logo.png';
 import React, { Component } from "react";
 import { ImYoutube2 } from "react-icons/im";
 import { VscGithubInverted } from "react-icons/vsc";
@@ -52,7 +51,8 @@ function App() {
     
     <div className='nav'>
       <div>
-      <a href='#'><img src="https://edu-uit-acct5123m21cttt-4.odoo.com/web/image/website/1/logo/My%20Website?unique=da9627f" alt="this is car image" />
+      <a href='#'><img src='https://edu-uit-acct5123m21cttt-4.odoo.com/web/image/website/1/logo/My%20Website?unique=da9627f'></img>
+
       </a>
       </div>
 

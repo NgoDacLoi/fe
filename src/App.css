@@ -154,7 +154,7 @@ home{
       min-height: 100px; 
       position: relative;
       top: -34px;
-      background-image: url("D:\testthu\src\anh\Salle_de_lecture_Bibliothèque_Mazarine_depuis_gallerie.jpg");
+      background-image: url("/src/Salle_de_lecture_Bibliothèque_Mazarine_depuis_gallerie.jpg");
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
